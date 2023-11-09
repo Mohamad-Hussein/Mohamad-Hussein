@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 [![Mohamad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamad-Hussein&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Mohamad-Hussein.581706404&left_color=green&right_color=red)
+[![HitCount](https://hits.dwyl.com/Mohamad-Hussein/Mohamad-Hussein.svg)](https://hits.dwyl.com/{Mohamad-Hussein}/Mohamad-Hussein)
