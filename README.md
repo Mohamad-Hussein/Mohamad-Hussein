@@ -1,4 +1,4 @@
-[![HitCount](https://hits.dwyl.com/Mohamad-Hussein/Mohamad-Hussein.svg)](https://hits.dwyl.com/{Mohamad-Hussein}/Mohamad-Hussein) ![](https://komarev.com/ghpvc/?username=Mohamad-Hussein&color=brightgreen) ![Ask me anything](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
+[![HitCount](https://hits.dwyl.com/Mohamad-Hussein/Mohamad-Hussein.svg)](https://hits.dwyl.com/{Mohamad-Hussein}/Mohamad-Hussein) ![](https://komarev.com/ghpvc/?username=Mohamad-Hussein&color=brightgreen) ![Ask me anything](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg) ![follow](https://img.shields.io/github/followers/Mohamad-Hussein.svg?style=social&label=Follow&maxAge=2592000)
 - 👋 Hi, I’m @Mohamad-Hussein
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning software engineering at University of Calgary
