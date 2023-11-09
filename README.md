@@ -2,7 +2,8 @@
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning software engineering at University of Calgary
 - 💞️ I’m looking to collaborate on any projects
-- 📫 How to reach me: mohamad.hussein@ucalgary.ca or on here
+# 📫 Contact Me!
+[](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 <!---
 Mohamad-Hussein/Mohamad-Hussein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
