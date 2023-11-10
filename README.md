@@ -14,6 +14,6 @@ Mohamad-Hussein/Mohamad-Hussein is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 # Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamad-Hussein&langs_count=8) [![Mohamad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamad-Hussein&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamad-Hussein&layout=compact&theme=react) [![Mohamad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamad-Hussein&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 
