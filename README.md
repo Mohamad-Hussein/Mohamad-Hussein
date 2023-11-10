@@ -14,11 +14,10 @@ Mohamad-Hussein/Mohamad-Hussein is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 # Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamad-Hussein&layout=compact&theme=react) [![Mohamad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamad-Hussein&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Mohamad-Hussein&theme=react" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamad-Hussein&layout=compact&theme=react" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamad-Hussein&layout=compact&theme=react&langs_count=8" />
 </a>
 
