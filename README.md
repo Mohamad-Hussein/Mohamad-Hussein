@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Mohamad-Hussein&theme=react" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Mohamad-Hussein&theme=react&show_icons=true&show=prs_merged_percentage,prs_merged&include_all_commits=true&hide=issues,contribs" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamad-Hussein&layout=compact&theme=react&langs_count=8" />
