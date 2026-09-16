@@ -4,7 +4,7 @@
 ![Ask me anything](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg) ![Profile Views](https://komarev.com/ghpvc/?username=Mohamad-Hussein&color=brightgreen)  ![follow](https://img.shields.io/github/followers/Mohamad-Hussein.svg?style=social&label=Follow&maxAge=2592000)
 - 🚀 My passion is in training and inference in Machine Learning
 - 🔭 I'm currently doing research in NLP
-- :earth_americas: I'm a third-year student at the University of Calgary, major in Software Engineering and Mechatronics minor
+- :earth_americas: I'm an MSc student at the University of Calgary in Electrical Engineering
 - 💞️ I’m looking to collaborate on any projects
 - 💬 Send me an email at **mohamad.hussein@ucalgary.ca**
 
